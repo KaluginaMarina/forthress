@@ -1,5 +1,12 @@
 # Forthress
 
+## задания на первый этап курсовой работы
+
+1. [проверка на четность](https://github.com/KaluginaMarina/forthress/blob/master/parity_check.frt)
+2. [проверка на простоту](https://github.com/KaluginaMarina/forthress/blob/master/primary_check.frt)
+3. [конкатенация строк](https://github.com/KaluginaMarina/forthress/blob/master/cat.frt)
+4. [последовательность Коллатца](https://github.com/KaluginaMarina/forthress/blob/master/collatz.frt)
+
 ## Summary
 
 Forthress is a Forth dialect made for fun and educational purposes.
